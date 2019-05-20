@@ -126,6 +126,7 @@ function trueCond(){
 		}
 		else{
 			document.getElementById("editId").innerHTML = ids;
+			document.getElementById("editName").innerHTML = "Hello, "+finalNickname;
 		}
 	});
 }
