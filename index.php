@@ -39,6 +39,14 @@
       }
     </script>
 	<link rel="manifest" href="manifest.json">
+
+	<meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Registration PWA">
+    <link rel="apple-touch-icon" href="https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-152x152.png?v=1568260260094">
+
+    <meta name="description" content="Quiz DPD Registration">
+    <meta name="theme-color" content="#FFFFFF" />
 	<script src="index.js"></script>
 </head>
 <body id="body">
