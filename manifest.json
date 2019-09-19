@@ -1,0 +1,53 @@
+{
+    "name": "Quiz BCA DPD Registration",
+    "short_name": "Quiz DPD",
+    "theme_color": "#ffffff",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "Scope": "/",
+    "start_url": "/index.php",
+    "icons": [
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-72x72.png?v=1568259985169",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-96x96.png?v=1568260234816",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-128x128.png?v=1568260228489",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-144x144.png?v=1568260245886",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-152x152.png?v=1568260260094",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-192x192.png?v=1568260266412",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-384x384.png?v=1568260277659",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.com/2b6eea20-0da2-4bd4-a35f-cd86e009cb84%2Ficon-512x512.png?v=1568260285091",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }

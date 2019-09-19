@@ -23,6 +23,22 @@
 		  };
 		  firebase.initializeApp(config);
 	</script>
+	<script>
+      if("serviceWorker" in navigator){
+        window.addEventListener('load',function(){
+          navigator.serviceWorker.register('./service-worker.js')
+          .then(function(){
+            console.log('ServiceWorker Registered');
+          })
+          .catch(function(){
+            console.log('ServiceWorker not Registered');
+          });
+        })
+      }else{
+        console.log("Serviceworker not supported");
+      }
+    </script>
+	<link rel="manifest" href="manifest.json">
 	<script src="index.js"></script>
 </head>
 <body id="body">
